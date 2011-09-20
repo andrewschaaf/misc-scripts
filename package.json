@@ -1,0 +1,20 @@
+{
+  "name": "misc-scripts",
+  "version": "0.0.1",
+  
+  "description": "TODO description",
+  "url": "https://github.com/TODO/TODO",
+  
+  "bin": {
+      "hover-active": "./hover-active.rb",
+      "optipng++": "./optipng++.rb",
+      "catR": "./catR.py"
+  },
+  
+  "author": "Andrew Schaaf <andrew@andrewschaaf.com> (http://andrewschaaf.com)",
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TODO/TODO.git"
+  }
+}
