@@ -7,7 +7,8 @@
   
   "bin": {
       "hover-active": "./hover-active.rb",
-      "optipng++": "./optipng++.rb",
+      "optipng++": "./optipng++.py",
+      "dom-doc-gen": "./dom-doc-gen.rb",
       "catR": "./catR.py"
   },
   
